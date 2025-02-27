@@ -1,0 +1,12 @@
+[submodule "BlockChain-Based-Social-Media-Frontend"]
+	path = BlockChain-Based-Social-Media-Frontend
+	url = https://github.com/BiniyamHaile/Mobile.git
+[submodule "Final-year-project-backend-domain"]
+	path = Final-year-project-backend-domain
+	url = https://github.com/bill7maxmaye/final-year-project-backend-domain.git
+[submodule "Final-Year-Project-Recommendation-Domain"]
+	path = Final-Year-Project-Recommendation-Domain
+	url = https://github.com/devaminta/Final-Year-Project-Recommendation-Domain.git
+[submodule "Final-year-project-BLOCKCHAIN-domain"]
+	path = Final-year-project-BLOCKCHAIN-domain
+	url = https://github.com/bemnet16/final-year-project-BLOCKCHAIN-domain.git
