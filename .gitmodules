@@ -10,3 +10,6 @@
 [submodule "Final-year-project-BLOCKCHAIN-domain"]
 	path = Final-year-project-BLOCKCHAIN-domain
 	url = https://github.com/bemnet16/final-year-project-BLOCKCHAIN-domain.git
+[submodule "Final-Year-Amharic-Content-Moderator"]
+	path = Final-Year-Amharic-Content-Moderator
+	url = https://github.com/Danitilahun/NLP-Content-Moderator.git
